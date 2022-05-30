@@ -11,7 +11,7 @@
    -Outside the world of technology I Love to enjoy myself pushing myself to develop new skills. My Hobbies are like  <b>Drawing and Painting, Dancing, Singing </b>
     and Most Passinate about <b>Poems </b> and writing that connects me to real world and me.
 	
-   -I also Love to reading books on Personal Development and some Romantic Books like <b>All I EVer Want is You</b> and most loved one is <b> a Tale of two Souls</b>
+   -I also Love to reading books on Personal Development and some Romantic Books like <b>All I Ever Want is You</b> and most loved one is <b> a Tale of two Souls</b>
 
 -<b>Education Bakcground</b>
 
