@@ -1,6 +1,6 @@
 - <B>👋 Hi,There!!</B>-I am <B>Monika Valvi🙋</B>,
 
-- <B>Begins with About Me🤹 </B>
+- <B>About Me🤹 </B>
 
    💁 I am Interested in Back-end Development, Mobile app Development
  
