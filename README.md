@@ -4,7 +4,7 @@
 
    💁 I am Interested in Back-end Development, Mobile app Development
  
-   💁-I’m currently learning <b>flutter</b> and <b>DATA Science</b> as well worked on language like Python,HTLML, CSS, Javascript ,PHP.
+   💁-I’m currently learning <b>flutter</b> and <b>DATA Science</b> as well worked on language like Python,HTML, CSS, Javascript ,PHP.
 
    💁-Passionate regarding <b>designing</b> as well can create designs to be more attactive and enjoy it to contribute t oopen source Projects.
  
